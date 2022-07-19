@@ -13,7 +13,7 @@ summary: 몇 가지 환경 요구 사항을 충족한 후 Astra Data Store를 �
 
 Astra Data Store 미리 보기를 설치하려면 에서 설치 번들을 다운로드하십시오 https://mysupport.netapp.com/site/products/all/details/astra-data-store/downloads-tab["NetApp Support 사이트"^] 이 절차에 설명된 설치 단계를 완료합니다.
 
-video::jz6EuryqYps[youtube, ]
+video::jz6EuryqYps[youtube]
 .무엇을 &#8217;필요로 할거야
 * link:requirements.html["설치를 시작하기 전에 Astra Data Store 미리 보기 구축을 위한 환경을 준비합니다"].
 * 에 액세스합니다 https://mysupport.netapp.com/site/products/all/details/astra-data-store/downloads-tab["NetApp Support 사이트"^]. https://www.netapp.com/cloud-services/astra/data-store-form/["등록"^] 전체 액세스 권한이 없는 NetApp Support 사이트 계정이 없는 경우 미리 보기를 위해
